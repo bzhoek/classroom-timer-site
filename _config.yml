@@ -1,1 +1,8 @@
-theme: jekyll-theme-slate
+title: Classroom Timer
+
+markdown: kramdown
+theme: jekyll-theme-midnight
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
