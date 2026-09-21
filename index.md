@@ -10,3 +10,5 @@ The ideal companion for timed classroom assignments. You can display a backgroun
 * a regular clock
 * a countdown
 * or elapsed time.
+
+[Privacy Policy](privacy.html)
